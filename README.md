@@ -4,6 +4,8 @@
 
 # claude-code-spinner
 
+> ⚠️ **Внимание:** единственный официальный источник этого проекта — [github.com/i1kazantsev/claude-code-spinner](https://github.com/i1kazantsev/claude-code-spinner).
+
 Замена фраз спиннера Claude Code для уважаемых вайбкодеров.
 
 Вместо стандартных `Thinking...`, `Analyzing...`, `Pondering...` будет крутиться **"Обкашляю вопросик"**, **"По красоте все сделаем"** и еще 90+ фраз.
