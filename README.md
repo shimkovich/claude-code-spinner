@@ -4,7 +4,7 @@
 
 # claude-code-spinner
 
-> ⚠️ **Внимание:** единственный официальный источник этого проекта — [github.com/i1kazantsev/claude-code-spinner](https://github.com/i1kazantsev/claude-code-spinner).
+> ⚠️ **Внимание:** единственный официальный источник этого проекта — [github.com/i1kazantsev/claude-code-spinner](https://github.com/i1kazantsev/claude-code-spinner). Уже существуют вредноносные копии проекта, я никакого отношения к ним не имею, будьте бдительны.
 
 Замена фраз спиннера Claude Code для уважаемых вайбкодеров.
 
