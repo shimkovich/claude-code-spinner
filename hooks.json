@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "afplay -v 1 ~/.claude/sounds/stop-hook.mp3"
+            "command": "f=(~/.claude/sounds/minecraft/*.ogg); afplay -v 1 \"${f[$RANDOM % ${#f[@]}]}\""
           }
         ]
       }
